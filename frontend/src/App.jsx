@@ -102,13 +102,12 @@ function AppRoutes() {
 
 function App() {
   return (
-  <>
-  <SpeedInsights>
     <QueryProvider>
       <BrowserRouter>
         <AuthProvider>
           <div className="flex flex-col min-h-screen">
             <div className="grow">
+              <SpeedInsights />
               <AppRoutes />
             </div>
           </div>
@@ -116,8 +115,8 @@ function App() {
         </AuthProvider>
       </BrowserRouter>
     </QueryProvider>
-  </SpeedInsights>
-  </>
+  
+  
   );
 }
 
