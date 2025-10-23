@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NES Properties - System Monitor</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 20px; background: #f7f8fa; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    .card { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); margin-bottom: 20px; padding: 20px; }
+    h1, h2, h3 { margin-top: 0; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: left; padding: 8px; border-bottom: 1px solid #eee; }
+    th { background: #f1f1f1; }
+    .chart { height: 300px; margin-bottom: 20px; }
+    .flex { display: flex; gap: 20px; }
+    .col { flex: 1; }
+    pre { background: #f1f1f1; padding: 10px; border-radius: 4px; overflow: auto; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>NES Properties System Monitor</h1>
+    
+    <div class="card">
+      <h2>System Status</h2>
+      <div class="flex">
+        <div class="col">
+          <h3>Uptime</h3>
+          <div id="uptime">Loading...</div>
+          
+          <h3>Memory Usage</h3>
+          <div id="memory">Loading...</div>
+        </div>
+        <div class="col">
+          <h3>Requests Today</h3>
+          <div id="requests">Loading...</div>
+          
+          <h3>Active Users Today</h3>
+          <div id="activeUsers">Loading...</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="flex">
+      <div class="col card">
+        <h2>API Endpoints</h2>
+        <canvas id="endpointsChart" class="chart"></canvas>
+        <div id="endpoints">Loading...</div>
+      </div>
+      
+      <div class="col card">
+        <h2>Chatbot Activity</h2>
+        <canvas id="chatbotChart" class="chart"></canvas>
+        <div id="chatbot">Loading...</div>
+      </div>
+    </div>
+    
+    <div class="card">
+      <h2>Recent Events</h2>
+      <div id="events">Loading...</div>
+    </div>
+    
+    <div class="card">
+      <h2>Errors</h2>
+      <div id="errors">Loading...</div>
+    </div>
+  </div>
+  
+  <script>
+    // Your API key
+    const API_KEY = prompt('Enter API key:');
+    
+    // Helper function to fetch data
+    async function fetchData(endpoint) {
+      try {
+        const response = await fetch(`/api/system/${endpoint}?apiKey=${API_KEY}`);
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        return await response.json();
+      } catch (e) {
+        console.error(`Error fetching ${endpoint}:`, e);
+        return null;
+      }
+    }
+    
+    // Update the UI with fetched data
+    async function updateUI() {
+      // Get system status
+      const status = await fetchData('status');
+      if (status) {
+        document.getElementById('uptime').textContent = `${Math.floor(status.uptime / 3600)}h ${Math.floor((status.uptime % 3600) / 60)}m ${Math.floor(status.uptime % 60)}s`;
+        document.getElementById('memory').innerHTML = `
+          <table>
+            <tr><th>Type</th><th>Usage</th></tr>
+            <tr><td>RSS</td><td>${status.memoryUsage.rss}</td></tr>
+            <tr><td>Heap Used</td><td>${status.memoryUsage.heapUsed}</td></tr>
+            <tr><td>Heap Total</td><td>${status.memoryUsage.heapTotal}</td></tr>
+          </table>
+        `;
+        document.getElementById('requests').textContent = status.summary.totalRequests || 0;
+        document.getElementById('activeUsers').textContent = Object.keys(status.summary.userActivity || {}).length;
+      }
+      
+      // Get endpoints data
+      const endpoints = await fetchData('endpoints');
+      if (endpoints) {
+        const endpointData = Object.entries(endpoints.endpoints);
+        
+        // Create endpoint table
+        const table = `
+          <table>
+            <tr><th>Endpoint</th><th>Requests</th></tr>
+            ${endpointData.slice(0, 10).map(([endpoint, count]) => 
+              `<tr><td>${endpoint}</td><td>${count}</td></tr>`
+            ).join('')}
+          </table>
+        `;
+        document.getElementById('endpoints').innerHTML = table;
+        
+        // Create endpoint chart
+        const ctx = document.getElementById('endpointsChart').getContext('2d');
+        new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: endpointData.slice(0, 10).map(([endpoint]) => endpoint.replace('/api/', '')),
+            datasets: [{
+              label: 'Requests',
+              data: endpointData.slice(0, 10).map(([_, count]) => count),
+              backgroundColor: 'rgba(54, 162, 235, 0.5)',
+              borderColor: 'rgba(54, 162, 235, 1)',
+              borderWidth: 1
+            }]
+          },
+          options: {
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      }
+      
+      // Get today's events
+      const events = await fetchData('events');
+      if (events) {
+        // Group events by type
+        const eventTypes = {};
+        events.events.forEach(event => {
+          eventTypes[event.eventType] = (eventTypes[event.eventType] || 0) + 1;
+        });
+        
+        // Create events table
+        const table = `
+          <div>Total events today: ${events.count}</div>
+          <table>
+            <tr><th>Event Type</th><th>Count</th></tr>
+            ${Object.entries(eventTypes).map(([type, count]) => 
+              `<tr><td>${type}</td><td>${count}</td></tr>`
+            ).join('')}
+          </table>
+          <h3>Recent Events</h3>
+          <pre>${JSON.stringify(events.events.slice(-10).reverse(), null, 2)}</pre>
+        `;
+        document.getElementById('events').innerHTML = table;
+        
+        // Extract chatbot data
+        const chatbotEvents = events.events.filter(e => e.eventType.startsWith('chatbot_'));
+        
+        // Group by hour
+        const hourlyData = {};
+        chatbotEvents.forEach(event => {
+          const hour = new Date(event.timestamp).getHours();
+          hourlyData[hour] = (hourlyData[hour] || 0) + 1;
+        });
+        
+        // Create chatbot chart
+        const hourLabels = Array.from({length: 24}, (_, i) => `${i}:00`);
+        const hourCounts = hourLabels.map((_, i) => hourlyData[i] || 0);
+        
+        const chatCtx = document.getElementById('chatbotChart').getContext('2d');
+        new Chart(chatCtx, {
+          type: 'line',
+          data: {
+            labels: hourLabels,
+            datasets: [{
+              label: 'Chatbot Interactions',
+              data: hourCounts,
+              fill: false,
+              borderColor: 'rgba(75, 192, 192, 1)',
+              tension: 0.1
+            }]
+          }
+        });
+        
+        document.getElementById('chatbot').innerHTML = `
+          <div>Total chatbot interactions today: ${chatbotEvents.length}</div>
+          <h3>Recent Chatbot Events</h3>
+          <pre>${JSON.stringify(chatbotEvents.slice(-5).reverse(), null, 2)}</pre>
+        `;
+      }
+      
+      // Get errors
+      const errors = await fetchData('errors');
+      if (errors) {
+        document.getElementById('errors').innerHTML = `
+          <div>Total errors: ${errors.count}</div>
+          <pre>${JSON.stringify(errors.errors.slice(-5).reverse(), null, 2)}</pre>
+        `;
+      }
+    }
+    
+    // Initial update
+    updateUI();
+    
+    // Update every minute
+    setInterval(updateUI, 60000);
+  </script>
+</body>
+</html>

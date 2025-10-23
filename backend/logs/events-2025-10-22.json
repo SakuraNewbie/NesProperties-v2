@@ -1,0 +1,3660 @@
+[
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:36.191Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:36.473Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:36.761Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:37.044Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:37.320Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:37.605Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:37.888Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:38.166Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:38.455Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:38.731Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:39.025Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:39.315Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:39.612Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:39.932Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:40.216Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:40.512Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:40.785Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:41.066Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:41.370Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:41.686Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:41.956Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:42.226Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:42.501Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:42.783Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:43.059Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:43.341Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:43.624Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:43.896Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:44.161Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:44.437Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:44.731Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:44.994Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:45.258Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:45.520Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:45.796Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:46.094Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:46.374Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:46.640Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:46.924Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:47.212Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:47.486Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:47.782Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:48.046Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:48.308Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:51:48.573Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:43.680Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:43.953Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:44.216Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:44.480Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:44.746Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:45.012Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:52:45.283Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:17.208Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:17.221Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:17.453Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:17.735Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:17.748Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:17.759Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.036Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.048Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:18.065Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.338Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.350Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:18.373Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.650Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:18.663Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:18.785Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:19.059Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:19.071Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:19.090Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:19.366Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T17:54:19.379Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "error",
+    "timestamp": "2025-10-22T17:54:19.397Z",
+    "data": {
+      "message": "MongoDB Connection Error",
+      "details": "querySrv ENOTFOUND _mongodb._tcp.cluster0.mrxzsfp.mongodb.net"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:05:28.450Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:05:28.463Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:05:30.721Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/nes-properties"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:05:30.815Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:05:31.327Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:05:31.423Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:20.849Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:20.853Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:20.991Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:21.090Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "241ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:21.094Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:21.094Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:21.112Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:21.114Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187775585-67118574.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:21.190Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:21.292Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "198ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.141Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6852139f464cbcca916903cb",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.142Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6852139f464cbcca916903cb\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.185Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.224Z",
+    "data": {
+      "route": "/api/properties/6852139f464cbcca916903cb",
+      "statusCode": 200,
+      "responseTime": "83ms",
+      "userId": null,
+      "contentLength": 975
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.228Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6852139f464cbcca916903cb",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.228Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6852139f464cbcca916903cb\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.230Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.230Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.264Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.268Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.304Z",
+    "data": {
+      "route": "/api/properties/6852139f464cbcca916903cb",
+      "statusCode": 200,
+      "responseTime": "76ms",
+      "userId": null,
+      "contentLength": 975
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.305Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "75ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.318Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.319Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209522012-580939357.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.335Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6852139f464cbcca916903cb/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.336Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6852139f464cbcca916903cb\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.338Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.339Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.378Z",
+    "data": {
+      "route": "/api/properties/6852139f464cbcca916903cb/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "43ms",
+      "userId": null,
+      "contentLength": 205
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.380Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6852139f464cbcca916903cb/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.381Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6852139f464cbcca916903cb\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:25.395Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.419Z",
+    "data": {
+      "route": "/api/properties/6852139f464cbcca916903cb/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "39ms",
+      "userId": null,
+      "contentLength": 205
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:25.433Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "95ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:25.488Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209522012-580939357.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:29.427Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209522012-580939357.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:31.387Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209522012-580939357.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:33.203Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:33.204Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:33.254Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:33.291Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "88ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:33.294Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:33.294Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:33.308Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:06:33.626Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:06:33.639Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.263Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/nes-properties"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.453Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.629Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.678Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.797Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.801Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.849Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:34.886Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "90ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.891Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.892Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.897Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.897Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.929Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.933Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:34.965Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "74ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:34.977Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "80ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.981Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.981Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.991Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:34.996Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:34.997Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:35.017Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:35.041Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "45ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:35.044Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:35.044Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:35.081Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "100ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:35.095Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "51ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:35.174Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:45.695Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:45.696Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:45.873Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:45.975Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "280ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:45.977Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:45.978Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:06:45.988Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:06:46.027Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:06:46.069Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "92ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:07:24.778Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/register/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "username": "admin1",
+        "fullName": "admin1",
+        "email": "admin1@gmail.com",
+        "password": "[REDACTED]",
+        "role": "admin"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:24.779Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin1@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:07:24.889Z",
+    "data": {
+      "route": "/api/auth/register/user",
+      "statusCode": 400,
+      "responseTime": "111ms",
+      "userId": null,
+      "contentLength": 107
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:07:29.075Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/register/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "username": "admin1",
+        "fullName": "admin1",
+        "email": "admin1@gmail.com",
+        "password": "[REDACTED]",
+        "role": "admin"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:29.076Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin1@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:29.248Z",
+    "data": {
+      "collection": "users",
+      "operation": "insertOne",
+      "query": "{\"username\":\"admin1\",\"email\":\"admin1@gmail.com\",\"password\":\"$2a$10$ueWsvagNotoen8vtl0V9Fe5UxNb00WFLfjT..uxfeWkbIh8QUTvli\",\"fullName\":\"admin1\",\"role\":\"user\",\"_id\":\"68f91d6156177767f329c3b7\",\"createdAt\":\"2025-10-22T18:07:29.186Z\",\"__v\":0}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:07:29.393Z",
+    "data": {
+      "route": "/api/auth/register/user",
+      "statusCode": 201,
+      "responseTime": "318ms",
+      "userId": null,
+      "contentLength": 324
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:07:40.276Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin1@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:40.277Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin1@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:07:40.507Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 200,
+      "responseTime": "231ms",
+      "userId": null,
+      "contentLength": 339
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:07:43.946Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:07:44.238Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:07:44.252Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:46.800Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/nes-properties"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:46.899Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:47.511Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:07:47.618Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:09:05.302Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:09:05.317Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:08.206Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:08.309Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:08.717Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:08.820Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:17.629Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:17.632Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:17.735Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:17.833Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "204ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:17.838Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:17.839Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:17.848Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187775585-67118574.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:17.853Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:17.930Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:18.958Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "1120ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:20.961Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:20.962Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:21.109Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:21.211Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "250ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:21.214Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:21.215Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:21.229Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187775585-67118574.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:21.229Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:21.308Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:21.345Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "131ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:22.787Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.788Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.829Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:22.912Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "126ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:22.915Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.916Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:22.918Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.918Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.955Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:22.967Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:22.991Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "76ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:23.021Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "103ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:23.024Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:23.025Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:23.028Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:23.046Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:23.047Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:23.066Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:23.086Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "40ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:23.088Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:23.089Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:23.114Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "90ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:23.128Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "40ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:23.152Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:09:23.477Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:09:23.496Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:24.047Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:24.097Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:24.395Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:24.441Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:40.517Z",
+    "data": {
+      "method": "GET",
+      "route": "/",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.238Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.242Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.377Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.481Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "243ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.485Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.486Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.488Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.489Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.581Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.583Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.684Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842",
+      "statusCode": 200,
+      "responseTime": "199ms",
+      "userId": null,
+      "contentLength": 1122
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.685Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "197ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.691Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.692Z",
+    "data": {
+      "collection": "owners",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851bd72c0826789292b783a\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.695Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187775585-67118574.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.696Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.708Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.709Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.782Z",
+    "data": {
+      "collection": "users",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b7838\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.888Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "180ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.889Z",
+    "data": {
+      "route": "/api/owners/6851bd72c0826789292b783a",
+      "statusCode": 200,
+      "responseTime": "198ms",
+      "userId": null,
+      "contentLength": 312
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.890Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:45.891Z",
+    "data": {
+      "collection": "properties",
+      "operation": "findOne",
+      "query": "{\"_id\":\"6851beb7c0826789292b7842\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:45.949Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187799739-615345920.png",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:45.986Z",
+    "data": {
+      "route": "/api/properties/6851beb7c0826789292b7842/virtual-tour",
+      "statusCode": 200,
+      "responseTime": "96ms",
+      "userId": null,
+      "contentLength": 230
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:48.271Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:48.272Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:48.449Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:48.551Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "280ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:48.554Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:48.554Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:09:48.574Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:09:48.649Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:09:48.756Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "202ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:10:12.635Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:10:12.648Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:13.247Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:13.300Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:13.565Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:13.615Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:10:19.376Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:19.380Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:19.440Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:10:19.475Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "99ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:10:19.479Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties?",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:19.480Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:10:19.490Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750187775585-67118574.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:10:19.497Z",
+    "data": {
+      "method": "GET",
+      "route": "/uploads/properties/property-1750209509305-210579519.jpg",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:19.523Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:10:19.566Z",
+    "data": {
+      "route": "/api/properties?",
+      "statusCode": 200,
+      "responseTime": "87ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:10:45.784Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:10:45.785Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:10:45.894Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 401,
+      "responseTime": "110ms",
+      "userId": null,
+      "contentLength": 57
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:11:04.704Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:11:04.704Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:11:04.837Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 401,
+      "responseTime": "133ms",
+      "userId": null,
+      "contentLength": 57
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:11:54.096Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin@example.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:11:54.096Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin@example.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:11:54.809Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 401,
+      "responseTime": "713ms",
+      "userId": null,
+      "contentLength": 57
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:12:35.753Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/register/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "username": "admin1",
+        "fullName": "admin1",
+        "email": "admin1@gmail.com",
+        "password": "[REDACTED]",
+        "role": "admin"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:12:35.754Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin1@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:12:35.866Z",
+    "data": {
+      "route": "/api/auth/register/user",
+      "statusCode": 400,
+      "responseTime": "113ms",
+      "userId": null,
+      "contentLength": 65
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:13:57.512Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/register/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "username": "admin1",
+        "fullName": "admin1",
+        "email": "admin123@gmail.com",
+        "password": "[REDACTED]",
+        "role": "admin"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:13:57.513Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin123@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:13:57.752Z",
+    "data": {
+      "collection": "users",
+      "operation": "insertOne",
+      "query": "{\"username\":\"admin1\",\"email\":\"admin123@gmail.com\",\"password\":\"$2a$10$.oXQs8fkh9F37QCgHWDCR.KyCJw1M/lzlTN5TdcCFD9naTTRalJS6\",\"fullName\":\"admin1\",\"role\":\"user\",\"_id\":\"68f91ee5f07752d4a80d87fd\",\"createdAt\":\"2025-10-22T18:13:57.689Z\",\"__v\":0}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:13:57.892Z",
+    "data": {
+      "route": "/api/auth/register/user",
+      "statusCode": 400,
+      "responseTime": "380ms",
+      "userId": null,
+      "contentLength": 131
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:14:13.401Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/register/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "username": "admin123",
+        "fullName": "admin123",
+        "email": "admin123@gmail.com",
+        "password": "[REDACTED]",
+        "role": "admin"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:14:13.402Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin123@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:14:13.615Z",
+    "data": {
+      "collection": "users",
+      "operation": "insertOne",
+      "query": "{\"username\":\"admin123\",\"email\":\"admin123@gmail.com\",\"password\":\"$2a$10$gQYU7giYG1wZZPJct5D2POsEfZNaFhC02z/Rz08nF2n3tBXh71Cm.\",\"fullName\":\"admin123\",\"role\":\"user\",\"_id\":\"68f91ef5f07752d4a80d8800\",\"createdAt\":\"2025-10-22T18:14:13.559Z\",\"__v\":0}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:14:13.766Z",
+    "data": {
+      "route": "/api/auth/register/user",
+      "statusCode": 201,
+      "responseTime": "365ms",
+      "userId": null,
+      "contentLength": 330
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:14:23.843Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin123@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:14:23.843Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin123@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:14:24.060Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 401,
+      "responseTime": "217ms",
+      "userId": null,
+      "contentLength": 57
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:14:32.102Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin123@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:14:32.102Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin123@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:14:32.354Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 200,
+      "responseTime": "252ms",
+      "userId": null,
+      "contentLength": 345
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:17:10.202Z",
+    "data": {
+      "method": "POST",
+      "route": "/api/auth/login",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {
+        "email": "admin123@gmail.com",
+        "password": "[REDACTED]"
+      }
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:17:10.202Z",
+    "data": {
+      "collection": "users",
+      "operation": "findOne",
+      "query": "{\"email\":\"admin123@gmail.com\"}",
+      "docSize": 0
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:17:10.458Z",
+    "data": {
+      "route": "/api/auth/login",
+      "statusCode": 200,
+      "responseTime": "256ms",
+      "userId": null,
+      "contentLength": 346
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:17:10.514Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/properties",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:17:10.515Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/owners",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:17:10.522Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/properties",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:17:10.523Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/owners",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:19:07.308Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/properties",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:19:07.623Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:19:07.638Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:19:09.287Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:19:09.342Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:19:09.905Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:19:10.001Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:21:47.692Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/users",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:21:47.699Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/api/users",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:02.689Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/admins",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:05.964Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/admin",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:11.622Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/user",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:13.953Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/users",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:20.646Z",
+    "data": {
+      "method": "GET",
+      "route": "/admin",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:21.848Z",
+    "data": {
+      "method": "GET",
+      "route": "/favicon.ico",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:42.595Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/system/status?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:22:42.596Z",
+    "data": {
+      "route": "/api/system/status?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33",
+      "statusCode": 200,
+      "responseTime": "1ms",
+      "userId": null,
+      "contentLength": 7236
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:42.612Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/system/endpoints?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-22T18:22:42.613Z",
+    "data": {
+      "route": "/api/system/endpoints?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33",
+      "statusCode": 200,
+      "responseTime": "1ms",
+      "userId": null,
+      "contentLength": 4073
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:22:42.651Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/system/events?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:28:55.441Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-22T18:28:55.457Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:28:57.791Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:28:57.894Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:28:58.404Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-22T18:28:58.502Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:29:03.441Z",
+    "data": {
+      "method": "GET",
+      "route": "/users/1",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:29:06.789Z",
+    "data": {
+      "method": "GET",
+      "route": "/users",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-22T18:29:11.043Z",
+    "data": {
+      "method": "GET",
+      "route": "/users",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  }
+]
