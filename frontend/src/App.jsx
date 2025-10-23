@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './styles/virtualTour.css';  // Add this import
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 import Home from './pages/Home';
 import Properties from './pages/Properties';
@@ -107,6 +108,7 @@ function App() {
           <div className="flex flex-col min-h-screen">
             <div className="flex-grow">
               <AppRoutes />
+              <SpeedInsights />
             </div>
           </div>
           <ToastContainer position="bottom-right" />

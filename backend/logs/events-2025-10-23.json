@@ -411,5 +411,227 @@
       "query": "{\"email\":1}",
       "docSize": 2
     }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T02:47:35.692Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T02:47:35.705Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:47:36.155Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:47:36.201Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:47:36.430Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:47:36.482Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T03:01:23.054Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T03:01:23.070Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:25.018Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:25.048Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:25.426Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:25.548Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-23T03:01:33.442Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:33.446Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:33.596Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-23T03:01:33.636Z",
+    "data": {
+      "route": "/api/properties",
+      "statusCode": 200,
+      "responseTime": "194ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-23T03:01:33.660Z",
+    "data": {
+      "method": "GET",
+      "route": "/favicon.ico",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-23T03:01:42.605Z",
+    "data": {
+      "method": "GET",
+      "route": "/api/properties",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:42.606Z",
+    "data": {
+      "collection": "properties",
+      "operation": "find",
+      "query": "{}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T03:01:42.806Z",
+    "data": {
+      "collection": "owners",
+      "operation": "find",
+      "query": "{\"_id\":{\"$in\":[\"6851bd72c0826789292b783a\"]}}",
+      "docSize": 4
+    }
+  },
+  {
+    "eventType": "response",
+    "timestamp": "2025-10-23T03:01:42.908Z",
+    "data": {
+      "route": "/api/properties",
+      "statusCode": 200,
+      "responseTime": "303ms",
+      "userId": null,
+      "contentLength": 2100
+    }
+  },
+  {
+    "eventType": "request",
+    "timestamp": "2025-10-23T03:01:42.922Z",
+    "data": {
+      "method": "GET",
+      "route": "/favicon.ico",
+      "ip": "127.0.0.1",
+      "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "userId": null,
+      "body": {}
+    }
   }
 ]

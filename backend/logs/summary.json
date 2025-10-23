@@ -1,8 +1,8 @@
 {
-  "totalRequests": 6770,
+  "totalRequests": 6792,
   "apiEndpoints": {
     "/admin": 12,
-    "/favicon.ico": 6,
+    "/favicon.ico": 8,
     "/api/system/status?apiKey=your_secure_jwt_secret_key": 4,
     "/api/system/endpoints?apiKey=your_secure_jwt_secret_key": 4,
     "/api/system/events?apiKey=your_secure_jwt_secret_key": 4,
@@ -43,7 +43,7 @@
     "/api/properties/684e01d7e7010bcba99c4cd8/virtual-tour": 49,
     "/api/owners?userId=684e0017e7010bcba99c4cc2": 8,
     "/api/owners/684e0017e7010bcba99c4cc4/properties": 9,
-    "/api/properties": 11,
+    "/api/properties": 15,
     "/api/owners/684f2f02b9191770ae104b2b": 84,
     "/api/api/properties/684f8a465578980811a821fb/images": 26,
     "/api/properties/684f8a465578980811a821fb": 52,
@@ -143,5 +143,5 @@
   ],
   "chatbotInteractions": 0,
   "propertyViews": {},
-  "lastUpdated": "2025-10-23T02:13:15.590Z"
+  "lastUpdated": "2025-10-23T03:01:42.922Z"
 }

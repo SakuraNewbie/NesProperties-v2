@@ -32,9 +32,12 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://nes-backend.vercel.app/api',
+        // Proxy to backend root and strip the /api prefix so requests like
+        // /api/properties -> https://nes-backend.vercel.app/properties
+        target: 'https://nes-backend.vercel.app',
         changeOrigin: true,
-        secure: false
+        secure: true,
+        rewrite: (path) => path.replace(/^\/api/, '')
       }
     }
   }
