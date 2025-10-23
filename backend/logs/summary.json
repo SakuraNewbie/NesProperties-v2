@@ -1,8 +1,8 @@
 {
-  "totalRequests": 6752,
+  "totalRequests": 6764,
   "apiEndpoints": {
     "/admin": 12,
-    "/favicon.ico": 5,
+    "/favicon.ico": 6,
     "/api/system/status?apiKey=your_secure_jwt_secret_key": 4,
     "/api/system/endpoints?apiKey=your_secure_jwt_secret_key": 4,
     "/api/system/events?apiKey=your_secure_jwt_secret_key": 4,
@@ -16,7 +16,7 @@
     "/api/system/events?apiKey=null": 4,
     "/api/system/errors?apiKey=null": 4,
     "/installHook.js.map": 1,
-    "/": 6,
+    "/": 7,
     "/api/system/status?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33": 192,
     "/api/system/endpoints?apiKey=4987166be0a3268b8f0a900fdb3f066527ad95b93066df944c1d79fe523eef33": 192,
     "/api/chatbot/analytics": 2278,
@@ -43,7 +43,7 @@
     "/api/properties/684e01d7e7010bcba99c4cd8/virtual-tour": 49,
     "/api/owners?userId=684e0017e7010bcba99c4cc2": 8,
     "/api/owners/684e0017e7010bcba99c4cc4/properties": 9,
-    "/api/properties": 9,
+    "/api/properties": 11,
     "/api/owners/684f2f02b9191770ae104b2b": 84,
     "/api/api/properties/684f8a465578980811a821fb/images": 26,
     "/api/properties/684f8a465578980811a821fb": 52,
@@ -143,5 +143,5 @@
   ],
   "chatbotInteractions": 0,
   "propertyViews": {},
-  "lastUpdated": "2025-10-23T01:26:18.623Z"
+  "lastUpdated": "2025-10-23T01:47:24.070Z"
 }
