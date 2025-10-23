@@ -32,7 +32,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:5000/api',
+        target: 'https://nes-backend.vercel.app/api',
         changeOrigin: true,
         secure: false
       }
