@@ -1,12 +1,13 @@
 // Define api object at the top of the file
 const api = {
-  baseUrl: window._env_?.API_URL || 'http://localhost:5000/api',
+  // Prefer Vite environment variable (build-time). Fallback to runtime window._env_.API_URL or localhost.
+  baseUrl: import.meta.env.VITE_API_URL || window._env_?.API_URL || 'http://localhost:5000/api',
   
   request: async (endpoint, options = {}) => {
-    // Ensure endpoint doesn't start with /api if baseUrl already includes it
-    const url = endpoint.startsWith('http') 
-      ? endpoint 
-      : `${api.baseUrl}${endpoint.startsWith('/') ? endpoint : '/' + endpoint}`;
+    // Ensure we don't duplicate /api segments. If endpoint is an absolute URL, use it.
+    const cleanedBase = api.baseUrl.endsWith('/') ? api.baseUrl.slice(0, -1) : api.baseUrl;
+    const cleanedEndpoint = endpoint.startsWith('/') ? endpoint : `/${endpoint}`;
+    const url = endpoint.startsWith('http') ? endpoint : `${cleanedBase}${cleanedEndpoint}`;
     
     // Include CORS-specific options
     const fetchOptions = {

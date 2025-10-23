@@ -80,7 +80,9 @@ const ChatBotv2 = () => {
     setIsTyping(true);
 
     try {
-      const response = await fetch('http://localhost:5000/api/chatbot/llm', {
+      const baseUrl = window._env_?.API_URL || import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+      const cleanedBase = baseUrl.endsWith('/') ? baseUrl.slice(0, -1) : baseUrl;
+      const response = await fetch(`${cleanedBase}/chatbot/llm`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(
@@ -135,7 +137,7 @@ const ChatBotv2 = () => {
       {/* Chat window */}
       {isOpen && (
         <ErrorBoundary>
-          <div className={`w-full max-w-xs sm:max-w-md ${darkMode ? 'bg-gray-800 text-white' : 'bg-white'} rounded-t-xl shadow-xl flex flex-col h-[70vh] max-h-[80vh]'`}>
+          <div className={`w-full max-w-xs sm:max-w-md ${darkMode ? 'bg-gray-800 text-white' : 'bg-white'} rounded-t-xl shadow-xl flex flex-col h-[70vh] max-h-[80vh]`}>
             <ChatHeader onClose={() => setIsOpen(false)} darkMode={darkMode} />
             <QuickReplies onSelect={handleQuickReply} />
             <div className={`flex-1 px-4 py-3 space-y-3 overflow-y-auto scrollbar-thin scrollbar-thumb-emerald-200 ${darkMode ? 'bg-gray-900' : 'bg-gray-50'}`}>

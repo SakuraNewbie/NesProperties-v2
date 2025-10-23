@@ -1,11 +1,12 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_URL = import.meta.env.VITE_API_URL || window._env_?.API_URL || 'http://localhost:5000/api';
 
 export const api = {
-  // Use window._env_ for runtime environment variables, or fallback to localhost
-  baseUrl: window._env_?.API_URL || 'http://localhost:5000/api',
+  // Normalize base URL
+  baseUrl: API_URL.endsWith('/') ? API_URL.slice(0, -1) : API_URL,
   
   request: async (endpoint, options = {}) => {
-    const url = endpoint.startsWith('http') ? endpoint : `${api.baseUrl}${endpoint}`;
+  const cleanedEndpoint = endpoint.startsWith('/') ? endpoint : `/${endpoint}`;
+  const url = endpoint.startsWith('http') ? endpoint : `${api.baseUrl}${cleanedEndpoint}`;
     
     const headers = {
       'Content-Type': 'application/json',
