@@ -355,5 +355,61 @@
       "userId": null,
       "body": {}
     }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T02:13:13.927Z",
+    "data": {
+      "status": "starting",
+      "environment": "development",
+      "port": "5000"
+    }
+  },
+  {
+    "eventType": "server",
+    "timestamp": "2025-10-23T02:13:13.944Z",
+    "data": {
+      "status": "running",
+      "port": "5000",
+      "url": "http://192.168.1.3:5000"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:13:14.873Z",
+    "data": {
+      "status": "connected",
+      "uri": "mongodb+srv://\\1:[REDACTED]@cluster0.mrxzsfp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/resta"
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:13:14.976Z",
+    "data": {
+      "collection": "properties",
+      "operation": "createIndex",
+      "query": "{\"title\":\"text\",\"location.area\":\"text\",\"location.fullAddress\":\"text\",\"description\":\"text\"}",
+      "docSize": 1
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:13:15.443Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"username\":1}",
+      "docSize": 2
+    }
+  },
+  {
+    "eventType": "database",
+    "timestamp": "2025-10-23T02:13:15.590Z",
+    "data": {
+      "collection": "users",
+      "operation": "createIndex",
+      "query": "{\"email\":1}",
+      "docSize": 2
+    }
   }
 ]

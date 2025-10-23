@@ -153,8 +153,19 @@ app.use(express.urlencoded({ extended: true }));
 // Add tracking middleware
 app.use(trackApiRequest);
 
-// Set static folder for uploaded files
-app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+// Set static folder for uploaded files if available. `fileUpload` exports
+// directory paths and indicates if disk storage is enabled.
+try {
+  const fileUploadUtil = require('./utils/fileUpload');
+  if (fileUploadUtil && fileUploadUtil.diskUploadsEnabled) {
+    app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+  } else if (fileUploadUtil && !fileUploadUtil.diskUploadsEnabled) {
+    console.warn('Uploads are using memory storage or tmpdir; skipping /uploads static mount');
+  }
+} catch (e) {
+  // If utils/fileUpload fails to load for any reason, skip static mount
+  console.warn('Could not configure /uploads static mount:', e.message);
+}
 
 // API routes
 app.use('/api/properties', propertyRoutes);
@@ -199,9 +210,18 @@ app.get('/admin', (req, res) => {
 
 const PORT = process.env.PORT || 5000;
 
-app.listen(PORT, '0.0.0.0', () => {
-  logEvent('server', { status: 'running', port: PORT, url: `http://192.168.1.3:${PORT}` });
-  console.log(`Server running on port ${PORT}`);
-  console.log(`Access at http://192.168.1.3:${PORT}`);
-  console.log(`Debug logging enabled - all API traffic will be logged to console`);
-});
+// Only start the HTTP server when this file is run directly (node server.js).
+// In serverless platforms (like Vercel) this file will be imported and the
+// platform provides its own HTTP handling. Exporting the `app` makes it
+// possible to wrap it with a serverless adapter (e.g. serverless-http).
+if (require.main === module) {
+  app.listen(PORT, '0.0.0.0', () => {
+    logEvent('server', { status: 'running', port: PORT, url: `http://192.168.1.3:${PORT}` });
+    console.log(`Server running on port ${PORT}`);
+    console.log(`Access at http://192.168.1.3:${PORT}`);
+    console.log(`Debug logging enabled - all API traffic will be logged to console`);
+  });
+}
+
+// Export the Express app so serverless wrappers can mount it.
+module.exports = app;

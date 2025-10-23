@@ -1,10 +1,29 @@
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
 
-// Create logs directory if it doesn't exist
-const logsDir = path.join(__dirname, '../logs');
-if (!fs.existsSync(logsDir)) {
-  fs.mkdirSync(logsDir, { recursive: true });
+// Allow overriding logs directory via env (helps serverless platforms)
+let logsDir = process.env.LOGS_DIR || path.join(__dirname, '../logs');
+let diskWritesEnabled = true;
+
+// Try to create logs directory; if it fails (read-only FS), fall back to OS tmpdir
+try {
+  if (!fs.existsSync(logsDir)) {
+    fs.mkdirSync(logsDir, { recursive: true });
+  }
+} catch (err) {
+  console.error('EventLogger: cannot create logs directory at', logsDir, '-', err.message);
+  // Try to fallback to tmpdir
+  try {
+    logsDir = path.join(os.tmpdir(), 'nes-properties-logs');
+    if (!fs.existsSync(logsDir)) {
+      fs.mkdirSync(logsDir, { recursive: true });
+    }
+    console.warn('EventLogger: falling back to tmpdir for logs:', logsDir);
+  } catch (err2) {
+    console.error('EventLogger: tmpdir fallback failed - disabling disk writes for logs:', err2.message);
+    diskWritesEnabled = false;
+  }
 }
 
 // Define log file paths
@@ -25,7 +44,7 @@ let summary = {
 
 // Load existing summary if available
 try {
-  if (fs.existsSync(summaryFile)) {
+  if (diskWritesEnabled && fs.existsSync(summaryFile)) {
     summary = JSON.parse(fs.readFileSync(summaryFile, 'utf8'));
   }
 } catch (err) {
@@ -109,11 +128,16 @@ const logEvent = (eventType, data = {}) => {
 // Flush events to disk
 const flushEvents = () => {
   if (eventBuffer.length === 0) return;
-  
+  if (!diskWritesEnabled) {
+    // If disk writes are disabled, clear the buffer but don't attempt file I/O
+    eventBuffer = [];
+    return;
+  }
+
   try {
     const logFilePath = dailyLogFile();
     let existingEvents = [];
-    
+
     // Read existing file if it exists
     if (fs.existsSync(logFilePath)) {
       try {
@@ -125,29 +149,34 @@ const flushEvents = () => {
         console.error('Error parsing existing log file:', e);
       }
     }
-    
+
     // Combine existing and new events
     const allEvents = [...existingEvents, ...eventBuffer];
-    
+
     // Write to file
     fs.writeFileSync(logFilePath, JSON.stringify(allEvents, null, 2));
-    
+
     // Write summary file
     fs.writeFileSync(summaryFile, JSON.stringify(summary, null, 2));
-    
+
     // Clear buffer
     eventBuffer = [];
   } catch (err) {
     console.error('Error writing to log file:', err);
+    // On any write failure, disable future disk writes to avoid repeated errors
+    diskWritesEnabled = false;
+    eventBuffer = [];
   }
 };
 
 // Make sure events get flushed on process exit
-process.on('exit', flushEvents);
-process.on('SIGINT', () => {
-  flushEvents();
-  process.exit(0);
-});
+if (diskWritesEnabled) {
+  process.on('exit', flushEvents);
+  process.on('SIGINT', () => {
+    flushEvents();
+    process.exit(0);
+  });
+}
 
 module.exports = {
   logEvent,
@@ -155,8 +184,17 @@ module.exports = {
   getSummary: () => summary,
   getEvents: (date = new Date().toISOString().split('T')[0]) => {
     const filePath = path.join(logsDir, `events-${date}.json`);
+    if (!diskWritesEnabled) {
+      // Return buffered events for current day when disk is disabled
+      return eventBuffer.filter(e => e.timestamp && e.timestamp.startsWith(date));
+    }
     if (fs.existsSync(filePath)) {
-      return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      try {
+        return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      } catch (e) {
+        console.error('Error reading events file:', e);
+        return [];
+      }
     }
     return [];
   }
